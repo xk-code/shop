@@ -13,5 +13,7 @@ export default {
 </script>
 
 <style>
-
+ #app{
+   color:red
+ }
 </style>
